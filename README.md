@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **lccarrillo247@gmail.com**
 
-- ⚡ Fun fact **I'm also a kids basketball coach 🏀. I've been working on this on the weekends for the last 15 years, and I love it 😊**
+- ⚡ Fun fact **I'm also a kids basketball coach on the weekends 🏀. I've been working on this for the last 15 years, and I love it 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luis carlos carrillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis carlos carrillo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-carlos-carrillo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis carlos carrillo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
