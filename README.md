@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lccarrillo247@gmail.com**
 
-- ⚡ Fun fact **I'm also a kids basketball coach on the weekends 🏀. I've been working on this for the last 15 years, and I love it 😊**
+- ⚡ Fun fact **I'm also a kids basketball coach on the weekends 🏀. I've been working on this for the past 15 years, and I love it 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
