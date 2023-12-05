@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **strengthening my skills and knowledge to start my first developer job with a company**
 
-- 🌱 I’m currently learning **Typescript and Bootstrap**
+- 🌱 I’m currently learning **React Native, Typescript and Bootstrap**
 
 - 💬 Ask me about **Javascript, React, Redux, Express, PostgreSQL, Sequelize, CSS, HTML**
 
